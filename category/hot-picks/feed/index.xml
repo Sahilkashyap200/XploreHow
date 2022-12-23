@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hot Picks &#8211; XploreHow</title>
+	<atom:link href="/https://sahilkashyap200.github.io/XploreHow/category/hot-picks/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sahilkashyap200.github.io/XploreHow</link>
+	<description>Information at your finger tip</description>
+	<lastBuildDate>Thu, 08 Dec 2022 18:32:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Memory management in os</title>
+		<link>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/memory-management-in-os/</link>
+					<comments>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/memory-management-in-os/#respond</comments>
+		
+		<dc:creator><![CDATA[XploreHow]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2022 09:57:30 +0000</pubDate>
+				<category><![CDATA[Hot Picks]]></category>
+		<guid isPermaLink="false">/https://sahilkashyap200.github.io/XploreHow/?p=709</guid>
+
+					<description><![CDATA[The term Memory can be defined as a collection of data in a specific format. It is used to store instructions and process data. The memory comprises a large array or group of words or bytes, each with its own location. The primary motive of a computer system is to execute programs. These programs, along &#8230;<p class="read-more"> <a class="" href="/https://sahilkashyap200.github.io/XploreHow/2022/12/08/memory-management-in-os/"> <span class="screen-reader-text">Memory management in os</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The term Memory can be defined as a collection of data in a specific format. It is used to store instructions and process data. The memory comprises a large array or group of words or bytes, each with its own location. The primary motive of a computer system is to execute programs. These programs, along with the information they access, should be in the main memory during execution. The CPU fetches instructions from memory according to the value of the program counter.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/memory-management-in-os/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>scheduling in os</title>
+		<link>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/scheduling-in-os/</link>
+					<comments>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/scheduling-in-os/#respond</comments>
+		
+		<dc:creator><![CDATA[XploreHow]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2022 09:56:05 +0000</pubDate>
+				<category><![CDATA[Hot Picks]]></category>
+		<guid isPermaLink="false">/https://sahilkashyap200.github.io/XploreHow/?p=707</guid>
+
+					<description><![CDATA[Definition. The process scheduling is&#160;the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy. Process scheduling is an essential part of a Multiprogramming operating systems]]></description>
+										<content:encoded><![CDATA[
+<p>Definition. The process scheduling is&nbsp;<strong>the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy</strong>. Process scheduling is an essential part of a Multiprogramming operating systems</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/scheduling-in-os/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dipatching in OS</title>
+		<link>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/dipatching-in-os/</link>
+					<comments>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/dipatching-in-os/#respond</comments>
+		
+		<dc:creator><![CDATA[XploreHow]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2022 09:55:26 +0000</pubDate>
+				<category><![CDATA[Hot Picks]]></category>
+		<guid isPermaLink="false">/https://sahilkashyap200.github.io/XploreHow/?p=705</guid>
+
+					<description><![CDATA[The event or activity in which the state of the process is changed from ready to running. It means the operating system puts the process from ready state into the running state. Dispatching is done by operating system when the resources are free or the process has higher priority than the ongoing process. There are &#8230;<p class="read-more"> <a class="" href="/https://sahilkashyap200.github.io/XploreHow/2022/12/08/dipatching-in-os/"> <span class="screen-reader-text">Dipatching in OS</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>The event or activity in which the state of the process is changed from ready to running. It means the operating system puts the process from ready state into the running state. Dispatching is done by operating system when the resources are free or the process has higher priority than the ongoing process. There are various other cases in which the process in running state is preempted and process in ready state is dispatched by the operating system.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://sahilkashyap200.github.io/XploreHow/2022/12/08/dipatching-in-os/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
